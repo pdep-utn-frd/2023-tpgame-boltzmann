@@ -1,0 +1,10 @@
+import wollok.game.*
+import flappybat_code.* 
+
+program flappybat {  
+ 
+	flappy.config() 
+	flappy.setup()
+	game.start()
+
+} 
